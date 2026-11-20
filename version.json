@@ -1,8 +1,12 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.3",
   "url": "https://buchedegato.itch.io/my-magic-asset-workshop",
   "notas": {
-    "es": "Segunda versión.",
-    "en": "Second release."
+    "es": "Arreglos de idiomas, mejor comprensión de palabras, nuevas unidades de fantasía (sirena, árbol gigante, enanos, fantasma), nuevas animaciones de ataque para lanzas, arreglo de los cadáveres en pixel art, mejor calidad en el arte voxel, nuevos terrenos que se combinan con otras texturas sin cortes, nuevos acantilados, nuevos pastos (transparentes y no transparentes) movidos por el viento y arreglo de bugs menores.",
+    "en": "Language fixes, better word understanding, new fantasy units (mermaid, giant tree, dwarves, ghost), new spear attack animations, fixed pixel art corpses, better voxel art quality, new terrain that blends with other textures without seams, new cliffs, new transparent and solid grass that moves in the wind, and minor bug fixes.",
+    "pt": "Correções de idiomas, melhor compreensão de palavras, novas unidades de fantasia (sereia, árvore gigante, anões, fantasma), novas animações de ataque com lança, cadáveres em pixel art corrigidos, melhor qualidade na arte voxel, novos terrenos que se misturam com outras texturas sem cortes, novos penhascos, nova grama (transparente e sólida) que se move com o vento e correções de pequenos bugs.",
+    "fr": "Corrections de langues, meilleure compréhension des mots, nouvelles unités fantastiques (sirène, arbre géant, nains, fantôme), nouvelles animations d'attaque à la lance, cadavres en pixel art corrigés, meilleure qualité de l'art voxel, nouveaux terrains qui se fondent avec d'autres textures sans coupures, nouvelles falaises, nouvelle herbe (transparente et opaque) qui bouge avec le vent et corrections de bugs mineurs.",
+    "de": "Sprachkorrekturen, besseres Wortverständnis, neue Fantasy-Einheiten (Meerjungfrau, Riesenbaum, Zwerge, Geist), neue Speer-Angriffsanimationen, korrigierte Pixel-Art-Leichen, bessere Voxel-Qualität, neues Gelände, das sich nahtlos mit anderen Texturen verbindet, neue Klippen, neues transparentes und festes Gras, das sich im Wind bewegt, und kleinere Fehlerbehebungen.",
+    "it": "Correzioni delle lingue, migliore comprensione delle parole, nuove unità fantasy (sirena, albero gigante, nani, fantasma), nuove animazioni d'attacco con la lancia, cadaveri in pixel art corretti, migliore qualità dell'arte voxel, nuovi terreni che si fondono con altre texture senza tagli, nuove scogliere, nuova erba (trasparente e opaca) mossa dal vento e correzione di bug minori."
   }
 }
